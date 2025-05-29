@@ -1,5 +1,5 @@
 # MovieWeb
-MovieDesk: Movie Database Website
+MovieWeb: Movie Database Website
 
 ◦ Designed a website that displays the latest trending movies and their details with search functionality 
 
